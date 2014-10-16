@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aot:home|Door43 (aot)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aot|d43-aot repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aot/archive/master.zip|d43-aot.zip]]
+
+**Recent Changes**
+{{changes>ns = aot}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aot|Ethnologue data]]
+
